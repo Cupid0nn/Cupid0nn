@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Cupid0nn
-- " tengo 19 años y soy de Argentina. Recientemente terminé la secundaria en una técnica y me orienté al desarrollo web, especialmente en back end.
-- Estudié en Henry, donde, en pocos meses, creé cuatro páginas y dos servidores.
-- Tengo conocimientos en inglés, electrónica e informática, y soy alguien que aprende rápido.
-- Me apasiona el mundo tech, y estoy buscando mi primera oportunidad laboral para seguir creciendo en esta área."
+- 👋 Hi, I’m @Cupid0nn or Mateo
+- i am 19 years old & from argentina,
+- I recently finished high school at a technical school and focused on web development, especially in back-end.
+- I studied at Henry, where, in just a few months, I created four web pages and two servers.
+- I have knowledge in English, electronics, and computing, and I’m a quick learner.
+- I’m passionate about the tech world and am looking for my first job opportunity to keep growing in this field.
+
+- Lets Be Tech Friends :)
 

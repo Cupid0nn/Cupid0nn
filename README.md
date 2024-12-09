@@ -13,16 +13,24 @@
 
 <h2 align="center">Languages</h2>
 
-<p align="center">
-  <b>🌎 Spanish</b><br>
-  <progress value="100" max="100" style="width: 80%; height: 20px;"></progress><br>
-  Native Speaker<br><br>
+<table align="center">
+  <tr>
+    <td align="center"><b>🌎 Spanish</b></td>
+    <td>
+      <p align="center">Native Speaker</p>
+      <p align="center">██████████ 100%</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌍 English</b></td>
+    <td>
+      <p align="center">C1 Level (<a href="https://cert.efset.org/es/3wmfjo" target="_blank">View Certificate</a>)</p>
+      <p align="center">████████░░ 85%</p>
+    </td>
+  </tr>
+</table>
 
-  <b>🌍 English</b><br>
-  <progress value="85" max="100" style="width: 80%; height: 20px;"></progress><br>
-  C1 Level (<a href="https://cert.efset.org/es/3wmfjo" target="_blank">View Certificate</a>)
-</p>
-
+---
 ---
 
 <h3 align="center">Connect with me:</h3>

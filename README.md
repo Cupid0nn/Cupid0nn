@@ -11,21 +11,27 @@
 
 ---
 
-<h2 align="center">Languages</h2> <p align="center"> <b>🌎 Spanish</b><br> <div style="width: 80%; background-color: #e0e0e0; border-radius: 10px; padding: 3px; margin: auto;"> <div style="width: 100%; background-color: #76c7c0; height: 20px; border-radius: 7px; text-align: center; color: white;"> 100% </div> </div> Native Speaker<br><br> <b>🌍 English</b><br> <div style="width: 80%; background-color: #e0e0e0; border-radius: 10px; padding: 3px; margin: auto;"> <div style="width: 85%; background-color: #76c7c0; height: 20px; border-radius: 7px; text-align: center; color: white;"> 85% </div> </div> C1 Level (<a href="https://cert.efset.org/es/3wmfjo" target="_blank">View Certificate</a>) </p>
+<h2 align="center">Languages</h2>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>🌎 Spanish</b></td>
+    <td>
+      <p align="center">Native Speaker</p>
+      <p align="center">██████████ 100%</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🌍 English</b></td>
+    <td>
+      <p align="center">C1 Level (<a href="https://cert.efset.org/es/3wmfjo" target="_blank">View Certificate</a>)</p>
+      <p align="center">████████░░ 85%</p>
+    </td>
+  </tr>
+</table>
+
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/mateo-acierno" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/laureano.js" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

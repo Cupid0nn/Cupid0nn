@@ -11,6 +11,16 @@
 
 ---
 
+<h2 align="center" style="color: #007acc;">Languages</h2>
+<div style="text-align: center; font-family: Arial, sans-serif; padding: 10px; border: 2px solid #007acc; border-radius: 8px; display: inline-block;">
+  <p style="font-size: 16px; font-weight: bold; color: #333;">🌎 Spanish: <span style="color: #4CAF50;">Native Speaker</span></p>
+  <p style="font-size: 16px; font-weight: bold; color: #333;">🌍 English: <span style="color: #4CAF50;">C1 Level</span> 
+    (<a href="https://cert.efset.org/es/3wmfjo" target="_blank" style="text-decoration: none; color: #007acc;">View Certificate</a>)
+  </p>
+</div>
+
+---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mateo-acierno" target="_blank">

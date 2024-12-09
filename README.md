@@ -11,25 +11,30 @@
 
 ---
 
-<h2 align="center" style="color: #007acc;">Languages</h2>
-<div style="font-family: Arial, sans-serif; text-align: center; padding: 20px;">
-  <div style="margin-bottom: 10px;">
-    <p style="font-size: 16px; font-weight: bold; color: #333; margin: 5px;">🌎 Spanish</p>
-    <div style="background-color: #e0e0e0; width: 80%; height: 20px; border-radius: 10px; margin: 0 auto; overflow: hidden;">
-      <div style="width: 100%; height: 100%; background-color: #4CAF50;"></div>
-    </div>
-    <p style="font-size: 14px; color: #666;">Native Speaker</p>
-  </div>
-  <div>
-    <p style="font-size: 16px; font-weight: bold; color: #333; margin: 5px;">🌍 English</p>
-    <div style="background-color: #e0e0e0; width: 80%; height: 20px; border-radius: 10px; margin: 0 auto; overflow: hidden;">
-      <div style="width: 85%; height: 100%; background-color: #4CAF50;"></div>
-    </div>
-    <p style="font-size: 14px; color: #666;">
-      C1 Level (<a href="https://cert.efset.org/es/3wmfjo" target="_blank" style="text-decoration: none; color: #007acc;">View Certificate</a>)
-    </p>
-  </div>
-</div>
+<h2 align="center">Languages</h2>
+
+<p align="center">
+  <b>🌎 Spanish</b><br>
+  <progress value="100" max="100" style="width: 80%; height: 20px;"></progress><br>
+  Native Speaker<br><br>
+
+  <b>🌍 English</b><br>
+  <progress value="85" max="100" style="width: 80%; height: 20px;"></progress><br>
+  C1 Level (<a href="https://cert.efset.org/es/3wmfjo" target="_blank">View Certificate</a>)
+</p>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/mateo-acierno" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/laureano.js" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 ---
 

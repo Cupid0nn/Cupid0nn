@@ -51,6 +51,8 @@
 
 ---
 
+---
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" style="line-height: 2;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -98,3 +100,5 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
+
+---
